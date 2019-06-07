@@ -5,5 +5,8 @@
     "start": "json-server --watch db.json"
   },
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
 }
