@@ -1,0 +1,9 @@
+{
+  "name": "api-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "db:start": "json-server --watch db.json"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
